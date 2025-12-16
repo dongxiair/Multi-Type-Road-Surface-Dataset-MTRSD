@@ -56,6 +56,6 @@ The **first character** defines the class label, and the **last numeric field** 
 
 ## 3. License
 
-This dataset and code are released for **academic and research use only** with license **CC-BY 4.0**.
+This dataset and code are released for **academic and research use only** with license **CC BY 4.0**.
 
 If you use this dataset or code in your research, please cite the corresponding paper or project.
